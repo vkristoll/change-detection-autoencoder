@@ -1,4 +1,4 @@
-#Training the autoencoder
+#Define the autoencoder model
 
 #Import libraries
 import tensorflow as tf
