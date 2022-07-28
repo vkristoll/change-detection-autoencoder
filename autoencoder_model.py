@@ -6,6 +6,7 @@ from keras.layers import Input, Activation, Conv2D, MaxPooling2D, Conv2DTranspos
 from keras.models import Model
 from keras import backend as K
 from keras import metrics
+from keras.optimizers import Adam
 
 #Create function to define the autoencoder model
 def autoencoder():
