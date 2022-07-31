@@ -1,6 +1,6 @@
 # Unsupervised change detection in VHR images with convolutional autoencoder
 
-This repository contains code related the implementation of the 2nd unsupervised change detection method, as analyzed in the paper cited below:
+This repository contains code related to the implementation of the 2nd unsupervised change detection method, as analyzed in the paper cited below:
 
 V. Kristollari and V. Karathanassi, "Change Detection in VHR Imagery With Severe Co-Registration Errors Using Deep Learning: A Comparative Study," in IEEE Access, vol. 10, pp. 33723-33741, 2022, doi: 10.1109/ACCESS.2022.3161978.
 
